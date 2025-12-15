@@ -1,0 +1,14 @@
+flexbnb-master/
+node_modules/
+.env
+.env.local
+.DS_Store
+*.log
+dist/
+build/
+.next/
+env/
+__pycache__/
+*.pyc
+db.sqlite3
+media/
